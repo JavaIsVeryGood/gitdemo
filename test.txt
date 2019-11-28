@@ -12,5 +12,4 @@ commit3
 commit10
 commit5
 commit6
-qqqqqqqqqqqqqqqqqqqqqq
-fast forward----------
+fast forward
